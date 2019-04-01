@@ -1,3 +1,0 @@
-# <center>ASG Graphics Organization</center>
-------------
-### ASG Graphics Organization or Andrew Soares Gonzalez Graphics Organization was created March 25,2019. The founder of the organization is Andrew Soares Gonzalez. The organization purpose is to help graphic desginers find work. There are five locatation listed in the website. Also the price for membership fees for students and professional is listed. It home page (index.html) has five stock images. The lightbulb at the top of the each page is an icon when click on sends the viewer back to the home page. I made it like this because,the home page answers several questions. Please visit the website for more information. 
