@@ -286,5 +286,6 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 }
 @media only screen and (max-width: 1600px){#header
 background: #1D1D1D url(audio.jpg) repeat-y left top;;
-  height: 240px;}
+  height: 240px;
+body:center}
 }
