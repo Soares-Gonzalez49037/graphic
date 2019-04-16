@@ -1,4 +1,6 @@
-html{height: 100%;}
+@charset "UTF-8";
+html{height: 100%;
+box-sizing: border-box;}
 
 *{ margin: 0;
   padding: 0;}
@@ -6,7 +8,8 @@ html{height: 100%;}
 body
 { font: normal .80em open sans;
   background: #F0EFE2 url(abstract.jpg) repeat;
-  color: #777;}
+  color: #777;
+  margin: 0;}
 
 h1, h2, h3, h4, h5, h6 
 { font: normal 175% sans-serif;
