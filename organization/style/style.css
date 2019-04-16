@@ -277,6 +277,13 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   border: 0;
   background: none;}
 
+.container {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(2, 100px);
+}
+
 @media screen and (orientation: portrait) {
   img.{ max-width: 90%; }
 }
