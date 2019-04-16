@@ -94,7 +94,8 @@ ol li
 
 #header
 { background: #1D1D1D url(audio.jpg) repeat;
-  height: 240px;}
+  width: 100%;
+  height: auto;}
 
 #logo
 { width: 825px;
