@@ -275,3 +275,11 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   width: 14px;
   border: 0;
   background: none;}
+
+@media screen and (orientation: portrait) {
+  img.{ max-width: 90%; }
+}
+
+@media screen and (orientation: landscape) {
+  img.{ max-height: 90%; }
+}
