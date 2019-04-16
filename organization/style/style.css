@@ -283,7 +283,11 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     grid-template-rows: repeat(2, 100px);
 }
-
+.container > div > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 @media screen and (orientation: portrait) {
   img.{ max-width: 90%; }
 }
