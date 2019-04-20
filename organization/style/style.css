@@ -395,6 +395,10 @@ body
   color: #777;
   margin: auto;
 overflow-x:hidden;}
+	
+.scaled {transform: scale(.5, 0.5);}
+}
+
 
 
 
