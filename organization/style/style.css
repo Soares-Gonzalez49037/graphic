@@ -367,7 +367,6 @@ body
 
 #site_content
 { width: 700px;
-  overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 37px;
   background: #FFF;} 
@@ -407,7 +406,6 @@ ul#menu, ul#menu li
 
 #site_content
 { width: 500px;
-  overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 37px;
   background: #FFF;} 
@@ -444,7 +442,6 @@ ul#menu, ul#menu li
 
 #site_content
 { width: 410px;
-  overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 37px;
   background: #FFF;} 
